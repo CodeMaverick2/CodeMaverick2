@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently working on building Threat Detection System using  Machine learning and learning to build react apps<br><br><br>
+Hi I am Tejas a Passionate Developer from India<br><br><br>
 
 
 ## 🌐 Socials:
