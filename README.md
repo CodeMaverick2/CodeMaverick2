@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi I am Tejas a Passionate Developer Debugging Code and life<br><br><br>
+## Hi I am Tejas a Passionate Developer Debugging Code and life<br><br><br>
 
 
 ## 🌐 Socials:
